@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: "trebuchet MS", sans-serif, arial;
+    font-size: 30px;
+
+}
+
+#headlines {
+    position: absolute;
+    white-space: nowrap;
+    left: 100%;
+
+}
+
+#headlines a {
+    padding: 50px;
+    color: black;
+    font-family: helvetica;
+}
